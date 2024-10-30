@@ -30,12 +30,12 @@ repository               : rayyanm/MMblog
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+ breadcrumbs            : true
 words_per_minute         : 200
 comments:
-  provider               : 'disqus'
+  provider               : 
   disqus:
-    shortname            : 'rayyanmm'
+    shortname            : 
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -82,7 +82,7 @@ baidu_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : vlad_siv
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -119,7 +119,7 @@ author:
       url: https://www.instagram.com/
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: https://rs.linkedin.com/in/vladimirsiv
+      url: https://sa.linkedin.com/in/rayyan-manzary-3534b6251
 
 # Site Footer
 footer:
@@ -132,7 +132,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      # url: https://github.com/VladimirSiv
+      # url: https://github.com/rayyanmm
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
