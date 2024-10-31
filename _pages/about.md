@@ -7,10 +7,6 @@ author_profile: false
 comments: false
 ---
 
-Hey :wave:
-
-### About Me
-
 <h1 align="center">Hi 👋, I'm Rayyan</h1>
 <!--
 **rayyanmm/rayyanmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
