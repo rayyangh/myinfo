@@ -17,10 +17,10 @@ minimal_mistakes_skin2   : "dark"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "vladsiv"
+title                    : "Rayyan"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "vladsiv"
+name                     : "Rayyan"
 description              : "Blog discussing topics around programming, data science/engineering, and cloud technologies."
 url                      : https://rayyanmm.github.io/MMblog
 baseurl                  : /MMblog
