@@ -67,18 +67,18 @@ comments:
   # via email when someone adds a reply or a new comment. This requires an account
   # with Mailgun, which you can get for free at http://mailgun.com.
   # notifications:
-  # Enable notifications
-  # enabled: true
+    # Enable notifications
+    # enabled: true
 
-  # (!) ENCRYPTED
-  #
-  # Mailgun API key
-  # apiKey: ""
+    # (!) ENCRYPTED
+    #
+    # Mailgun API key
+    # apiKey: ""
 
-  # (!) ENCRYPTED
-  #
-  # Mailgun domain (encrypted)
-  # domain: ""
+    # (!) ENCRYPTED
+    #
+    # Mailgun domain (encrypted)
+    # domain: ""
 
   # (*) REQUIRED
   #
@@ -97,8 +97,8 @@ comments:
   # reCaptcha
   # Register your domain at https://www.google.com/recaptcha/ and choose reCAPTCHA V2
   reCaptcha:
-    enabled: false
-    siteKey:
+    enabled: true
+    siteKey: "6LdRBykTAAAAAFB46MnIu6ixuxwu9W1ihFF8G60Q"
     # Encrypt reCaptcha secret key using Staticman /encrypt endpoint
     # For more information, https://staticman.net/docs/encryption
-    secret:
+    secret: "PznnZGu3P6eTHRPLORniSq+J61YEf+A9zmColXDM5icqF49gbunH51B8+h+i2IvewpuxtA9TFoK68TuhUp/X3YKmmqhXasegHYabY50fqF9nJh9npWNhvITdkQHeaOqnFXUIwxfiEeUt49Yoa2waRR7a5LdRAP3SVM8hz0KIBT4="
