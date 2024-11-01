@@ -2,11 +2,3 @@
 main:
   - title: "Home"
     url: /
-  - title: "Cool Links"
-    url: /cool-links/
-  - title: "Projects"
-    url: /publications/
-  - title: "Archive"
-    url: /archive/
-  - title: "About"
-    url: /about/
