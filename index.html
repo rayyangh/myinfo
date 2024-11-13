@@ -11,6 +11,9 @@ classes: wide
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Rayyan's Profile</title>
     <style>
+      :root {
+        --primary-color: #78a6d4; /* Define a primary color variable */
+      }
       body {
         font-family: Arial, sans-serif;
         margin: 0;
@@ -34,7 +37,7 @@ classes: wide
         font-size: 1.2em;
         padding: 10px 20px; /* Add padding inside the square */
         border-radius: 10px; /* Rounded corners */
-        border: 2px solid #78a6d4; /* Border around the square */
+        border: 2px solid var(--primary-color); /* Border around the square */
         display: inline-block; /* Ensure the border wraps the content */
         text-align: center; /* Center the text inside the square */
         /*  background-color: #f8f9fa; /* Optional: Add a background color */
@@ -88,6 +91,20 @@ classes: wide
           height: 20px; /* Adjust for very small screens */
         }
       }
+      h3 {
+        position: relative;
+        padding-bottom: 5px; /* Space for the underline */
+        display: inline-block; /* Ensure the underline is only as wide as the text */
+      }
+      h3::after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        height: 5px; /* Height of the underline */
+        background-color: var(--primary-color); /* Color of the underline */
+      }
     </style>
   </head>
   <body>
@@ -115,7 +132,7 @@ classes: wide
       <ul class="badge-list">
         <li>
           <img
-            src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python2.svg"
+            src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"
             alt="Python"
             height="30"
             width="auto"
@@ -346,7 +363,7 @@ classes: wide
           </a>
         </div>
       </div>
-      <br />
+
       <div align="center">
         <h1>Bye!</h1>
       </div>
