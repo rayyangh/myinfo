@@ -22,11 +22,12 @@ classes: wide
         font-family: "Outfit", sans-serif;
         margin: 0;
         padding: 0;
+        font-size: 14px; /* Reduced font size for the body */
       }
       .container {
         max-width: 800px;
         margin: auto;
-        padding: 20px;
+        padding: 10px; /* Reduced padding */
       }
       .skills-list {
         list-style: none;
@@ -37,14 +38,13 @@ classes: wide
         justify-content: center;
       }
       .skills-list li {
-        margin: 10px;
-        font-size: 1.2em;
-        padding: 10px 20px; /* Add padding inside the square */
-        border-radius: 10px; /* Rounded corners */
-        border: 2px solid var(--primary-color); /* Border around the square */
-        display: inline-block; /* Ensure the border wraps the content */
-        text-align: center; /* Center the text inside the square */
-        /*  background-color: #f8f9fa; /* Optional: Add a background color */
+        margin: 5px; /* Reduced margin */
+        font-size: 1em; /* Reduced font size */
+        padding: 8px 15px; /* Reduced padding */
+        border-radius: 8px; /* Reduced border-radius */
+        border: 2px solid var(--primary-color);
+        display: inline-block;
+        text-align: center;
       }
       .badge-list {
         list-style: none;
@@ -55,8 +55,8 @@ classes: wide
         justify-content: center;
       }
       .badge-list img {
-        margin: 5px;
-        height: 30px; /* Constrain only by height */
+        margin: 3px; /* Reduced margin */
+        height: 20px; /* Further reduced height */
         width: auto;
       }
       .contact-links {
@@ -65,40 +65,40 @@ classes: wide
         justify-content: center;
       }
       .contact-links a {
-        margin: 10px;
+        margin: 5px; /* Reduced margin */
       }
       .contact-links img {
-        height: 30px; /* Constrain only by height */
+        height: 20px; /* Further reduced height */
         width: auto;
       }
       @media (min-width: 800px) {
         .badge-list img,
         .contact-links img {
-          height: 40px; /* Increased height for larger screens */
+          height: 30px; /* Increased height for larger screens, but still smaller than original */
         }
       }
       @media (max-width: 600px) {
         .skills-list li {
-          font-size: 1em;
+          font-size: 0.9em; /* Reduced font size */
         }
         .badge-list img,
         .contact-links img {
-          height: 25px; /* Adjust for smaller screens */
+          height: 15px; /* Adjust for smaller screens */
         }
       }
       @media (max-width: 400px) {
         .skills-list li {
-          font-size: 0.9em;
+          font-size: 0.8em; /* Reduced font size */
         }
         .badge-list img,
         .contact-links img {
-          height: 20px; /* Adjust for very small screens */
+          height: 10px; /* Adjust for very small screens */
         }
       }
       h3 {
         position: relative;
-        padding-bottom: 5px; /* Space for the underline */
-        display: inline-block; /* Ensure the underline is only as wide as the text */
+        padding-bottom: 3px; /* Reduced padding for underline */
+        display: inline-block;
         font-family: "Outfit", sans-serif;
       }
       h3::after {
@@ -107,21 +107,26 @@ classes: wide
         bottom: 0;
         left: 0;
         width: 100%;
-        height: 5px; /* Height of the underline */
-        background-color: var(--primary-color); /* Color of the underline */
+        height: 3px; /* Reduced height of the underline */
+        background-color: var(--primary-color);
+      }
+      h1 {
+        font-size: 24px; /* Reduced font size for h1 */
+        text-align: center; /* Align h1 text to center */
+      }
+      h1:first-child {
+        margin-bottom: 10px; /* Reduced margin */
+      }
+      h1:last-child {
+        margin-top: 10px; /* Reduced margin */
       }
     </style>
   </head>
   <body>
-    <h1 align="center">Hi 👋, I'm Rayyan</h1>
+    <h1>Hi 👋, I'm Rayyan</h1>
 
     <div class="container">
-      <h3>
-        <!-- <img
-        src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png"
-        alt="Man Technologist" width="30" /* Reduced width */ height="30" /*
-        Reduced height */ /> -->Skills
-      </h3>
+      <h3>Skills</h3>
 
       <p>Here's some of the things I can do:</p>
       <ul class="skills-list">
@@ -139,7 +144,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg"
             alt="Python"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -147,7 +152,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Markdown/markdown3.svg"
             alt="Markdown"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -155,7 +160,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html3.svg"
             alt="HTML5"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -163,7 +168,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css3.svg"
             alt="CSS"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -171,7 +176,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg"
             alt="JavaScript"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -179,7 +184,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ruby/ruby3.svg"
             alt="Ruby"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -187,7 +192,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass3.svg"
             alt="Sass"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -195,7 +200,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss3.svg"
             alt="Tailwind"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -207,7 +212,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Trello/trello3.svg"
             alt="Trello"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -215,7 +220,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows10/windows103.svg"
             alt="Windows10"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -223,7 +228,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Windows11/windows113.svg"
             alt="Windows11"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -231,7 +236,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Ubuntu/ubuntu3.svg"
             alt="Ubuntu"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -239,7 +244,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Linux/linux3.svg"
             alt="Linux"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -247,7 +252,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode3.svg"
             alt="VS Code"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -255,7 +260,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm3.svg"
             alt="Webstorm"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -263,7 +268,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Android/android3.svg"
             alt="Android"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -271,7 +276,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/AndroidStudio/androidstudio3.svg"
             alt="Android Studio"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -279,7 +284,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Audacity/audacity3.svg"
             alt="Audacity"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -287,7 +292,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/DaVinciResolve/davinciresolve3.svg"
             alt="DaVinci Resolve"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -295,7 +300,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop3.svg"
             alt="Photoshop"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -303,7 +308,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Illustrator/illustrator3.svg"
             alt="Illustrator"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -311,7 +316,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg"
             alt="GitHub"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -319,7 +324,7 @@ classes: wide
           <img
             src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel3.svg"
             alt="Vercel"
-            height="30"
+            height="20"
             width="auto"
           />
         </li>
@@ -332,7 +337,7 @@ classes: wide
             <img
               src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg"
               alt="Discord"
-              height="30"
+              height="20"
               width="auto"
             />
           </a>
@@ -340,7 +345,7 @@ classes: wide
             <img
               src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram2.svg"
               alt="Telegram"
-              height="30"
+              height="20"
               width="auto"
             />
           </a>
@@ -348,7 +353,7 @@ classes: wide
             <img
               src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Mail/mail3.svg"
               alt="Mail"
-              height="30"
+              height="20"
               width="auto"
             />
           </a>
