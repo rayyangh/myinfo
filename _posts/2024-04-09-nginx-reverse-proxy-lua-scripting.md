@@ -11,15 +11,6 @@ toc_label: "Content"
 toc_sticky: true
 last_modified_at: April 9, 2024
 og_image: /assets/images/posts/nginx-lua-scripting/header.jpg
-sidebar:
-  - title: "Title"
-    image: "/assets/images/your-image.jpg"
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
-
 ---
 
 {% include image.html
