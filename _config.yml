@@ -141,7 +141,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      # url: https://github.com/VladimirSiv
+      url: https://github.com/rayyanmm
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -156,7 +156,7 @@ footer:
       # url: https://stackoverflow.com/users/10947997/vlad-siv
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-lg"
-      # url: https://rs.linkedin.com/in/vladimirsiv
+      url: https://www.linkedin.com/in/rayyan-manzary-3534b6251/
 
 # Reading Files
 include:
