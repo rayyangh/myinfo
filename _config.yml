@@ -114,21 +114,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: https://www.instagram.com/vlad__siv/
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow"
-      url: https://stackoverflow.com/users/10947997/vlad-siv
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: https://rs.linkedin.com/in/vladimirsiv
-    - label: "HackerNews"
-      icon: "fab fa-fw fa-hacker-news"
-      url: https://news.ycombinator.com/user?id=vladsiv
     - label: "RSS"
       icon: "fa fa-fw fa-rss"
       url: https://www.vladsiv.com/feed.xml
-    - label: "Goodreads"
-      icon: "fab fa-fw fa-goodreads-g"
-      url: https://www.goodreads.com/user/show/115326882-vlad
 
 # Site Footer
 footer:
