@@ -6,7 +6,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin2 | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
 .home-page {
   display: grid;
   grid-template-columns: 50% 50%;
@@ -30,11 +29,11 @@
   }
 }
 .home-button {
-  background-color: #ffffff;
+  background-color: #000000;
   border: 2px solid #000000;
   display: inline-block;
   margin: 0 0 1rem 0;
-  color: #000000;
+  color: #ffffff;
   padding: 10px 32px 10px 32px;
   font-size: 16px;
   letter-spacing: 1.3px;
@@ -47,8 +46,8 @@
   }
 
   &:hover {
-    background-color: #000000;
+    background-color: #ffffff;
     border: 2px solid rgb(0, 0, 0);
-    color: #ffffff;
+    color: #000000;
   }
 }
