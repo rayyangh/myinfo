@@ -10,7 +10,6 @@ content:
       - { name: layout, type: string, hidden: true, default: post }
       - { name: date, label: Date, type: date }
       - { name: comments, label: Comments, type: boolean, default: false }
-      - { name: description, label: Description, type: string, options: { maxlength: 160 } }
       - { name: image, label: Image, type: image }
       - { name: body, label: Body, type: text }
   - name: About
