@@ -27,7 +27,7 @@ baseurl: /myinfo
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: " " # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Rayyan's blog" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true
 words_per_minute: 180
 comments:
@@ -136,9 +136,9 @@ footer:
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
+    - label: "Telegram"
+      icon: "fab fa-fw fa-telegram"
+      # url: https://t.me/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
