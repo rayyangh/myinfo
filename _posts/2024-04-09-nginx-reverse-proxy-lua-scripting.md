@@ -9,7 +9,6 @@ date: April 9, 2024
 toc: true
 toc_label: "Content"
 toc_sticky: true
-last_modified_at: April 9, 2024
 og_image: /assets/images/posts/nginx-lua-scripting/header.jpg
 ---
 
