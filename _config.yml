@@ -142,9 +142,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "StackOverflow"
-      icon: "fab fa-fw fa-stack-overflow fa-lg"
-      # url: https://stackoverflow.com/users/10947997/vlad-siv
+    - label: "Email"
+      icon: "fab fa-fw fa-envelope"
+      url: javascript:location.href = 'mailto:' + ['rayyanbc','gmail.com'].join('@')
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-lg"
       url: https://www.linkedin.com/in/rayyan-manzary-3534b6251/
