@@ -16,7 +16,7 @@ content:
   - name: About
     label: About
     type: file
-    path: _tabs/about.md
+    path: _pages/about.md
     view: 
       fields: [title]
     fields:
