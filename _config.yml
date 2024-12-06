@@ -138,13 +138,13 @@ footer:
       # url:
     - label: "Telegram"
       icon: "fab fa-fw fa-telegram"
-      # url: https://t.me/
+      # url: https://t.me/rayyantg
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
     - label: "Email"
-      icon: "fab fa-fw fa-link"
-      url: javascript:location.href = 'mailto:' + ['rayyanbc','gmail.com'].join('@')
+      icon: "fab fa-fw fa-telegram"
+      url: "mailto:rayyanbc@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin fa-lg"
       url: https://www.linkedin.com/in/rayyan-manzary-3534b6251/
