@@ -69,7 +69,7 @@ comments: false
 ### Experience
 
 - Misk JSP
-- Ithra Volunteering
+- Ithra Volunteer
 
 ### Education
 
