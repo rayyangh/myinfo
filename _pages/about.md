@@ -9,7 +9,7 @@ comments: false
 
 <!-- {: .btn .btn--inverse} -->
 
-## Contact Me
+### Contact Me
 
 - [Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
 - [Telegram](https://t.me/rayyantg){: .btn .btn--inverse}
@@ -17,12 +17,12 @@ comments: false
 - [WhatsApp](https://wa.me/yourphonenumber){: .btn .btn--inverse}
 - [Instagram](https://www.instagram.com/rayyan.manzary){: .btn .btn--inverse}
 
-## See my projects
+### See my projects
 
 - [Github](https://github.com/rayyangh)
 - [FLickr](https://www.flickr.com/photos/201933183@N04/)
 
-## Skills
+### Skills
 
 - Audio editing
 - Video editing
@@ -32,7 +32,7 @@ comments: false
 - Color grading
 - Digital Animation
 
-## Familiar w/ Platforms & Apps
+### Familiar w/ Platforms & Apps
 
 - Vercel
 - Cloudflare pages
@@ -49,7 +49,7 @@ comments: false
 - pycharm
 - Android studio
 
-## Languages
+### Languages
 
 - Python
 - HTML
@@ -59,27 +59,27 @@ comments: false
 - Ruby
 - Golang
 
-## Projects
+### Projects
 
 - Saudi Airlines paper plane (illustrator)
 - Sugar Sammy poster (photoshop)
 - Qatar airways icons (illustrator)
 - STC Icon (illustrator)
 
-## Experience
+### Experience
 
 - Misk JSP
 - Ithra Volunteering
 
-## Education
+### Education
 
 - American School Dhahran
 
-## Recognition
+### Recognition
 
 - Debate club certificates
 
-## Associations
+### Associations
 
 - ASD Debate club
 - Delta Icon pack
