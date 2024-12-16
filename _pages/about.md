@@ -1,7 +1,7 @@
 ---
 title: About
 page_title: About
-layout: single
+layout: default
 permalink: /about/
 author_profile: false
 comments: false
