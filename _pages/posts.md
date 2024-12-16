@@ -1,7 +1,7 @@
 ---
 title: Posts
 page_title: Posts
-layout: collection
+layout: home
 permalink: /posts/
 author_profile: false
 comments: false
