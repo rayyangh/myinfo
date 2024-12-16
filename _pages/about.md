@@ -1,11 +1,11 @@
 ---
 title: About
 page_title: About
-layout: splash
 permalink: /about/
 author_profile: false
 comments: false
 toc: true
+toc_sticky: true
 ---
 
 <!-- {: .btn .btn--inverse} -->
