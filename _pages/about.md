@@ -5,17 +5,18 @@ layout: splash
 permalink: /about/
 author_profile: false
 comments: false
+toc: true
 ---
 
 <!-- {: .btn .btn--inverse} -->
 
 ### Contact Me
 
-- [Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
-- [Telegram](https://t.me/rayyantg){: .btn .btn--inverse}
-- [LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/){: .btn .btn--inverse}
-- [WhatsApp](https://wa.me/yourphonenumber){: .btn .btn--inverse}
-- [Instagram](https://www.instagram.com/rayyan.manzary){: .btn .btn--inverse}
+[Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
+[Telegram](https://t.me/rayyantg){: .btn .btn--inverse}
+[LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/){: .btn .btn--inverse}
+[WhatsApp](https://wa.me/yourphonenumber){: .btn .btn--inverse}
+[Instagram](https://www.instagram.com/rayyan.manzary){: .btn .btn--inverse}
 
 ### See my projects
 
