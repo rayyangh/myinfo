@@ -14,7 +14,7 @@ toc_sticky: true
 
 [Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
 [LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/){: .btn .btn--inverse}
-{: align: center;}
+{: style="align: center;"}
 
 ### See my projects
 
