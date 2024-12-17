@@ -2,7 +2,7 @@
 title: About
 page_title: About
 permalink: /about/
-layout: default
+layout: splash
 author_profile: false
 comments: false
 toc: true
