@@ -2,6 +2,7 @@
 title: About
 page_title: About
 permalink: /about/
+layout: default
 author_profile: false
 comments: false
 toc: true
