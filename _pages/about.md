@@ -2,7 +2,6 @@
 title: About
 page_title: About
 permalink: /about/
-layout: splash
 author_profile: false
 comments: false
 toc: true
@@ -12,7 +11,7 @@ toc_sticky: true
 <!-- {: .btn .btn--inverse} -->
 
 ### Contact Me
-
+{: style="text-align: center;"}
 [Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
 [LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/){: .btn .btn--inverse}
 {: style="text-align: center;"}
