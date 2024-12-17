@@ -14,7 +14,7 @@ toc_sticky: true
 
 [Email](mailto:rayyanbc@gmail.com){: .btn .btn--inverse}
 [LinkedIn](https://www.linkedin.com/in/rayyan-manzary-3534b6251/){: .btn .btn--inverse}
-
+{: text-align: center;"}
 
 ### See my projects
 
@@ -58,13 +58,14 @@ toc_sticky: true
 - Ruby
 - Golang
 
+<!--
 ### Projects
 
 - Saudi Airlines paper plane (illustrator)
 - Sugar Sammy poster (photoshop)
 - Qatar airways icons (illustrator)
 - STC Icon (illustrator)
-
+-->
 ### Experience
 
 - Misk JSP
