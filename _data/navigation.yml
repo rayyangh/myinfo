@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "posts"
-    url: /posts/
+#  - title: "posts"
+#    url: /posts/
   - title: "about"
     url: /about/
